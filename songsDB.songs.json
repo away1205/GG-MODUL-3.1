@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "64b5343aa6d8ef191a89092e"
+  },
+  "title": "Cruel Summer",
+  "artist": "Taylor Swift",
+  "album": "Lover"
+},
+{
+  "_id": {
+    "$oid": "64b534a2a6d8ef191a89092f"
+  },
+  "title": "Stitches",
+  "artist": "Shawn Mendes",
+  "album": "Handwritten"
+},
+{
+  "_id": {
+    "$oid": "64b53509a6d8ef191a890930"
+  },
+  "title": "Senorita",
+  "artist": "Camilla Cabello",
+  "album": "Senorita"
+},
+{
+  "_id": {
+    "$oid": "64b5353ca6d8ef191a890931"
+  },
+  "title": "Thinking Out Loud",
+  "artist": "Ed Sheeran",
+  "album": "X"
+},
+{
+  "_id": {
+    "$oid": "64b5367da6d8ef191a890932"
+  },
+  "title": "As It Was",
+  "artist": "Harry Styles",
+  "album": "Harry House"
+},
+{
+  "_id": {
+    "$oid": "64b536a9a6d8ef191a890933"
+  },
+  "title": "Attention",
+  "artist": "Charlie Puth",
+  "album": "Attention"
+},
+{
+  "_id": {
+    "$oid": "64b53701a6d8ef191a890934"
+  },
+  "title": "Me Too",
+  "artist": "Meghan Trainor",
+  "album": "Thank You"
+},
+{
+  "_id": {
+    "$oid": "64b5373ea6d8ef191a890935"
+  },
+  "title": "Wolves",
+  "artist": "Selena Gomez",
+  "album": "Wolves"
+},
+{
+  "_id": {
+    "$oid": "64b537bba6d8ef191a890936"
+  },
+  "title": "Side to Side",
+  "artist": "Ariana Grande",
+  "album": "Dangerous Woman"
+},
+{
+  "_id": {
+    "$oid": "64b53c67a6d8ef191a890939"
+  },
+  "title": "Happier Than Ever",
+  "artist": "Billie Eilish",
+  "album": "Happier Than Ever"
+}]

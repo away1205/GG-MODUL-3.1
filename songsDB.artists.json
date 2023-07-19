@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "64b6bef8f716102491b47d2b"
+  },
+  "name": "Taylor Swift",
+  "birthDate": {
+    "$date": "1989-12-12T17:00:00.000Z"
+  },
+  "genres": [
+    "pop",
+    "country",
+    "folk",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b6c4bdf716102491b47d2d"
+  },
+  "name": "Shawn Mendes",
+  "birthDate": {
+    "$date": "1998-08-07T17:00:00.000Z"
+  },
+  "genres": [
+    "pop",
+    "folk",
+    "rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b6c821f716102491b47d2e"
+  },
+  "name": "Camila Cabello",
+  "birthDate": {
+    "$date": "1997-03-03T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop",
+    "Latin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b6c821f716102491b47d2f"
+  },
+  "name": "Ed Sheeran",
+  "birthDate": {
+    "$date": "1991-02-17T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop",
+    "Folk",
+    "R&B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b6c821f716102491b47d30"
+  },
+  "birthDate": {
+    "$date": "1994-02-01T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop",
+    "Rock"
+  ],
+  "name": "Harry Styles"
+},
+{
+  "_id": {
+    "$oid": "64b6c821f716102491b47d31"
+  },
+  "name": "Charlie Puth",
+  "birthDate": {
+    "$date": "1991-12-02T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop",
+    "R&B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b6c821f716102491b47d32"
+  },
+  "name": "Meghan Trainor",
+  "birthDate": {
+    "$date": "1993-12-22T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop",
+    "Doo-Wop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b6c821f716102491b47d33"
+  },
+  "name": "Selena Gomez",
+  "birthDate": {
+    "$date": "1992-07-22T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop",
+    "Dance",
+    "Electropop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b6c821f716102491b47d34"
+  },
+  "name": "Ariana Grande",
+  "birthDate": {
+    "$date": "1993-06-26T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop",
+    "R&B",
+    "Trap"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b6c821f716102491b47d35"
+  },
+  "name": "Billie Eilish",
+  "birthDate": {
+    "$date": "2001-12-18T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop",
+    "Alternative"
+  ]
+}]
